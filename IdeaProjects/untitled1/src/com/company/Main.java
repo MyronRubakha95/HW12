@@ -23,7 +23,7 @@ public class Main {
         arr.put(date5, "Black Beauty");
         System.out.println(arr);
 
-        System.out.println("On this date : " + date0 + ". There is no book " );
+        System.out.println("On this date : " + date0 + ". There is no book ");
 
 
         for (Map.Entry<LocalDate, String> me : arr.entrySet()) {
