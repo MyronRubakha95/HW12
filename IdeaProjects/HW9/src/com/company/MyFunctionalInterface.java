@@ -1,5 +1,6 @@
 package com.company;
+
 @FunctionalInterface
 public interface MyFunctionalInterface {
-    public String Hello ();
+    public String Hello();
 }

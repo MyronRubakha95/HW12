@@ -3,8 +3,8 @@ package com.company;
 
 import java.time.LocalDate;
 
-public class Users{
-    private String email ;
+public class Users {
+    private String email;
     private LocalDate loginDate;
     private String team;
 

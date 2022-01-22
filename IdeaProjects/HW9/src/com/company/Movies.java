@@ -2,7 +2,7 @@ package com.company;
 
 public class Movies {
     public String nameMovies;
-    private double price ;
+    private double price;
     public String genre;
 
     public Movies(String nameMovies, double price, String genre) {
